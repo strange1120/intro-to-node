@@ -1,0 +1,17 @@
+{
+  "name": "intro-to-node",
+  "description": "",
+  "main": "Gruntfile.js",
+  "license": "ISC",
+  "homepage": "https://github.com/strange1120/my-angular-site",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sass-icon-fonts": "*"
+  }
+}
